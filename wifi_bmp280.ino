@@ -3,8 +3,8 @@
 #include <SPI.h>
 #include <Adafruit_BMP280.h>
 
-const char* ssid = "KhMrMo";
-const char* password = "M.r.k.h.1113.";
+const char* ssid = "****";
+const char* password = "****";
 
 Adafruit_BMP280 bmp;
 
